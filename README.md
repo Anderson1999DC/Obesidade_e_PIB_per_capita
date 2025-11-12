@@ -98,10 +98,10 @@ Essa relação reforça a importância de políticas públicas voltadas à educa
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
-Anderson Junior
-📊 Analista de Dados | Python | Power BI | SQL | Excel
+**Anderson Coelho**  
+📊 Analista de Dados | Python | Power BI | SQL | Excel  
 
-🔗 LinkedIn: https://www.linkedin.com/in/anderson-coelho-42671634a/
-💼 Portfólio no GitHub: https://github.com/Anderson1999DC?tab=repositories
+🔗 [LinkedIn](https://www.linkedin.com/in/anderson-coelho-42671634a/)  
+💼 [Portfólio no GitHub](https://github.com/Anderson1999DC?tab=repositories)
