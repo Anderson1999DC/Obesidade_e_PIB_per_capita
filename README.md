@@ -61,6 +61,7 @@ O estudo busca compreender **como o aumento do PIB per capita pode estar relacio
 
 ---
 
+🎥 [Visualizar notebook completo com gráficos interativos no nbviewer](https://nbviewer.org/github/Anderson1999DC/Obesidade_e_PIB_per_capita/blob/main/Analise_de_correlacao_PIB_e_obesidade.ipynb)
 ## 🧩 Estrutura do Projeto
 
 Obesidade_e_PIB_per_capita/
