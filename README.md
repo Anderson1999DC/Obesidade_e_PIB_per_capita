@@ -1,4 +1,4 @@
-# 🌎 Análise da Relação entre Obesidade e PIB Per Capita (1975–2016)
+# Análise da Relação entre Obesidade e PIB Per Capita (1975–2016)
 
 Este projeto tem como objetivo investigar **se existe correlação entre o crescimento econômico e os índices de obesidade** em diferentes países ao longo das últimas décadas.
 
@@ -9,7 +9,7 @@ A análise foi baseada em duas bases públicas do **Kaggle**:
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 O estudo busca compreender **como o aumento do PIB per capita pode estar relacionado à evolução da obesidade mundial**, considerando:
 
@@ -19,7 +19,7 @@ O estudo busca compreender **como o aumento do PIB per capita pode estar relacio
 
 ---
 
-## 🧠 Técnicas e Bibliotecas Utilizadas
+## Técnicas e Bibliotecas Utilizadas
 
 - **Pandas** → Leitura, limpeza e manipulação de dados;  
 - **NumPy** → Cálculos estatísticos e tratamento numérico;  
@@ -30,7 +30,7 @@ O estudo busca compreender **como o aumento do PIB per capita pode estar relacio
 
 ---
 
-## ⚙️ Etapas da Análise
+## Etapas da Análise
 
 1. **Coleta e importação de dados**
    - Leitura dos arquivos CSV com informações de obesidade e PIB per capita.
@@ -52,7 +52,7 @@ O estudo busca compreender **como o aumento do PIB per capita pode estar relacio
 
 ---
 
-## 📈 Principais Descobertas
+## Principais Descobertas
 
 - Existe **correlação positiva moderada** entre o aumento do PIB per capita e o crescimento das taxas de obesidade ao longo das décadas.  
 - Países com **maior desenvolvimento econômico** apresentaram **maiores níveis de obesidade**, indicando influência de fatores como consumo de ultraprocessados e estilo de vida urbano.  
@@ -61,11 +61,11 @@ O estudo busca compreender **como o aumento do PIB per capita pode estar relacio
 
 ---
 
-🎥 [Visualizar notebook completo com gráficos interativos no nbviewer](https://nbviewer.org/github/Anderson1999DC/Obesidade_e_PIB_per_capita/blob/main/Analise_de_correlacao_PIB_e_obesidade.ipynb)
+[Visualizar notebook completo com gráficos interativos no nbviewer](https://nbviewer.org/github/Anderson1999DC/Obesidade_e_PIB_per_capita/blob/main/Analise_de_correlacao_PIB_e_obesidade.ipynb)
 
 ---
 
-## 🧩 Estrutura do Projeto
+## Estrutura do Projeto
 
 Obesidade_e_PIB_per_capita/
 │
@@ -79,7 +79,7 @@ Obesidade_e_PIB_per_capita/
 
 ---
 
-## 💻 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone o repositório:
    ```bash
@@ -95,17 +95,17 @@ Obesidade_e_PIB_per_capita/
 
 ---
 
-📚 Conclusão
+Conclusão
 
 O estudo demonstra que a evolução econômica tende a acompanhar o aumento das taxas de obesidade, revelando que o crescimento do PIB não implica necessariamente em melhora de qualidade de vida.
 Essa relação reforça a importância de políticas públicas voltadas à educação alimentar e ao acesso equilibrado à nutrição, principalmente em países em desenvolvimento.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Anderson Coelho**  
-📊 Analista de Dados | Python | Power BI | SQL | Excel  
+Analista de Dados | Python | Power BI | SQL | Excel  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/anderson-coelho-42671634a/)  
 💼 [Portfólio no GitHub](https://github.com/Anderson1999DC?tab=repositories)
