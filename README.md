@@ -70,7 +70,7 @@ flowchart TD
     E[ Integração das Bases\nchave: país-ano] --> F
     F[ Análise e Correlação\nPearson · EDA · Visualizações] --> G
 
-    E --> E1[/"193 países · Dados anuais\Interpolação linear por país"/]
+    E --> E1[/"193 países · Dados anuais e Interpolação "/]
     F --> F1[/"Correlação: 0.969\Mapa animado Plotly"/]
 
     style A1 fill:#4A90D9,color:#fff,stroke:none
