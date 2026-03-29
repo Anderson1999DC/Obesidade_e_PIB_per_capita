@@ -176,7 +176,7 @@ Isso significa que, em escala global, à medida que a média do PIB per capita c
 
 ![PIB Per Capita do Brasil com Interpolação](assets/pib_Brasil_interpolacao.png)
 
-> Linha contínua gerada pela interpolação linear dos anos ausentes nos dados originais. Os pontos reais estão destacados em laranja, os interpolados em azul.
+> Linha contínua gerada pela interpolação linear dos anos ausentes nos dados originais. Os pontos reais estão destacados em azul, os interpolados em laranja.
 
 ---
 
